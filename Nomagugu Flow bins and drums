@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nomagugu Flow Bins and Drums</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #0b4f6c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #083b52;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #0b4f6c;
+    }
+    footer {
+      background-color: #0b4f6c;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+    .contact {
+      font-size: 18px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Nomagugu Flow Bins and Drums</h1>
+  <p>Reliable Supplier of Used IBC 1000L Flow Bins and Drums</p>
+  <p class="contact">Call / WhatsApp: +27 74 914 4586</p>
+  <p>Kempton Park, Gauteng</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#products">Products</a>
+  <a href="#order">How to Order</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Nomagugu Flow Bins and Drums is a South Africa–based supplier of used IBC 1000L
+    flow bins and used 210L blue drums, serving individuals and companies.
+  </p>
+  <p>
+    We operate on an order-based system and source stock from trusted suppliers.
+    Our business is registered on Google Business and trusted by repeat clients.
+  </p>
+</section>
+
+<section id="products">
+  <h2>Our Products</h2>
+  <ul>
+    <li><strong>Used IBC 1000L Flow Bins</strong> – Suitable for water and approved uses</li>
+    <li><strong>Used 210L Blue Drums</strong> – Available on order</li>
+  </ul>
+  <p><em>Stock subject to availability. Contact us for pricing.</em></p>
+</section>
+
+<section id="order">
+  <h2>How to Order</h2>
+  <ol>
+    <li>Contact us via call or WhatsApp</li>
+    <li>Confirm product availability</li>
+    <li>Pay a deposit to secure your order</li>
+    <li>Collection or delivery arranged</li>
+  </ol>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p class="contact">Phone / WhatsApp: +27 74 914 4586</p>
+  <p>Location: Kempton Park, Gauteng</p>
+  <p>Operating: Order-based | By appointment only</p>
+</section>
+
+<footer>
+  <p>&copy; 2026 Nomagugu Flow Bins and Drums</p>
+</footer>
+
+</body>
+</html>
